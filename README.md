@@ -16,7 +16,7 @@
 - [virtual-mes-dashboard](https://github.com/Leehyunji0715/virtual-mes-dashboard) — WebSocket 기반 MES 실시간 설비 모니터링 대시보드
 
 ### Now
-- 🚧 WebSocket 기반 실시간 협업 메신저 (Next.js + WebSocket)
+- 🚧 WebSocket 기반 실시간 협업 메신저 (React + WebSocket)
 - 🚧 Kotlin 기반 Android 앱
 
 ### Etc
