@@ -17,7 +17,7 @@
 
 ### Now
 - 🚧 WebSocket 기반 실시간 협업 메신저 (React + WebSocket)
-- 🚧 Kotlin 기반 Android 앱
+- 🚧 Kotlin 기반 나만의 책장 만들기 Android 앱
 
 ### Etc
 - 🏋️ 꾸준히 헬스장 다니며 체력 관리 중
