@@ -16,7 +16,7 @@ AI를 체계적으로 활용해 개발 생산성을 높이고, 도메인 이해�
 - [virtual-mes-dashboard](https://github.com/Leehyunji0715/virtual-mes-dashboard) — WebSocket 기반 MES 실시간 설비 모니터링 대시보드
 
 ### Now
-- 🚧 WebSocket 기반 실시간 협업 메신저 (React + WebSocket)
+- 🚧 [burrow](https://github.com/Leehyunji0715/burrow) - 프로젝트 단위 실시간 협업 메신저 (React + WebSocket)
 - 🚧 Kotlin 기반 나만의 책장 만들기 Android 앱
 
 ### Etc
